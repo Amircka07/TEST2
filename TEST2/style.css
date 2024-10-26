@@ -1,0 +1,18 @@
+#square {
+  width: 100px;
+  height: 100px;
+  background-color: skyblue;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.colors-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.btn-color {
+  border-radius: 20px;
+  border-color: white !important;
+}
